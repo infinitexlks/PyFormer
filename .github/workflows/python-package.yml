@@ -1,4 +1,5 @@
-name: Python package
+# This is my Python runner on GitHub pages!
+name: Infinites PyPackage!
 on:
   push:
     branches: [ "main" ]

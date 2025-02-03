@@ -77,4 +77,4 @@ while running:
 
 # Quit Pygame
 pygame.quit()
-sys.exit(
+sys.exit()
